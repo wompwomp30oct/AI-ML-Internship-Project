@@ -1,3 +1,9 @@
+# Wildlife Detection
+
+> **Modified version for internship project**  
+> Original project: [Microsoft CameraTraps](https://github.com/microsoft/CameraTraps)
+
+---
 ![A colorful banner illustrating various species of animals and plants in a natural environment, symbolizing biodiversity and the use of AI for conservation purposes.](https://zenodo.org/records/20044680/files/Biodiversity_Banner.png)
 
 # Microsoft Biodiversity

@@ -1,3 +1,9 @@
+# Cancer Detection
+
+> **Modified version for internship project**  
+> Original project: [MONAI](https://github.com/Project-MONAI/MONAI)
+
+---
 <p align="center">
 <img src="https://raw.githubusercontent.com/Project-MONAI/MONAI/dev/docs/images/MONAI-logo-color.png" width="50%" alt='project-monai'>
 </p>
@@ -102,3 +108,4 @@ Ask and answer questions over on [MONAI's GitHub Discussions tab](https://github
 - conda-forge: <https://anaconda.org/conda-forge/monai>
 - Weekly previews: <https://pypi.org/project/monai-weekly/>
 - Docker Hub: <https://hub.docker.com/r/projectmonai/monai>
+

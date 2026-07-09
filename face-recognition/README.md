@@ -1,3 +1,9 @@
+# Face Recognition
+
+> **Modified version for internship project**  
+> Original project: [InsightFace](https://github.com/deepinsight/insightface)
+
+---
 
 # InsightFace: 2D and 3D Face Analysis Project
 
@@ -296,3 +302,4 @@ Main contributors:
 - [Jack Yu](https://github.com/szad670401) ``jackyu961127[at]gmail.com``
 - [Baris Gecer](https://barisgecer.github.io/) ``barisgecer[at]msn.com``
  ``
+
