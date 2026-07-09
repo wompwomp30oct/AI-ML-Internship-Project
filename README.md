@@ -93,24 +93,27 @@ It shows application of AI for environmental conservation and real-world impact 
 ---
 
 ## 📁 Repository Structure
+
+```
 AI-ML-Internship-Project/
 │
-├── README.md ← You are here
+├── README.md                          ← You are here
 │
-├── cancer-detection/ ← MONAI-based Cancer Detection
-│ ├── monai/
-│ ├── docs/
-│ ├── tests/
-│ └── README.md
+├── cancer-detection/                  ← MONAI-based Cancer Detection
+│   ├── monai/
+│   ├── docs/
+│   ├── tests/
+│   └── README.md
 │
-├── face-recognition/ ← InsightFace-based Face Recognition
-│ ├── detection/
-│ ├── recognition/
-│ ├── python-package/
-│ └── README.md
+├── face-recognition/                  ← InsightFace-based Face Recognition
+│   ├── detection/
+│   ├── recognition/
+│   ├── python-package/
+│   └── README.md
 │
-└── wildlife-detection/ ← Microsoft CameraTraps / MegaDetector
-├── megadetector/
-├── api/
-├── data_management/
-└── README.md
+└── wildlife-detection/                ← Microsoft CameraTraps / MegaDetector
+    ├── megadetector/
+    ├── api/
+    ├── data_management/
+    └── README.md
+```
